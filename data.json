@@ -9,35 +9,10 @@
       ]
     },
     {
-      "id": "2",
-      "title": "Game two",
+      "id": "1111",
+      "title": "Game of Thrones",
       "platform": [
-        "PC2",
-        "PS2"
-      ]
-    },
-    {
-      "id": "3",
-      "title": "Game three",
-      "platform": [
-        "PC3",
-        "PS3"
-      ]
-    },
-    {
-      "id": "2436",
-      "title": "Game Four",
-      "platform": [
-        "Play Station 2026",
-        "XBOX-2026"
-      ]
-    },
-    {
-      "id": "4822",
-      "title": "Game Five",
-      "platform": [
-        "FIFA-2026",
-        "XBOX-2030"
+        "XBOX-1919"
       ]
     }
   ],
