@@ -64,9 +64,14 @@ async function saveEdit(id: string) {
     alert('Update failed: ' + err.message)
   }
 }
+
+function getGames() {
+  refetch()
+}
 </script>
 
 <template>
+   <button @click="getGames">Get Games</button>
   <div v-if="loading">Loading…</div>
   <div v-else-if="error">Error: {{ error.message }}</div>
 
