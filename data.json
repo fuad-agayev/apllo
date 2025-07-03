@@ -1,18 +1,10 @@
 {
   "games": [
     {
-      "id": "1",
-      "title": "Game one",
+      "id": "8796",
+      "title": "Game two",
       "platform": [
-        "PC",
-        "PS"
-      ]
-    },
-    {
-      "id": "1111",
-      "title": "Game of Thrones",
-      "platform": [
-        "XBOX-1919"
+        "XBOX-29"
       ]
     }
   ],

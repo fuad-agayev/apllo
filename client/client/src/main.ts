@@ -25,4 +25,5 @@ createApp({
     provide(DefaultApolloClient, apolloClient)
   },
   render: () => h(App)
-}).mount('#app')
+})
+.mount('#app')

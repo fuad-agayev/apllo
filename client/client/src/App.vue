@@ -3,8 +3,7 @@
     <h1>Game Store</h1>
     <GameForm />
     <GameList />
-  
-    <!-- GameDetails bileşeni, seçilen oyunun detaylarını gösterir -->
+
   </div>
 </template>
 
