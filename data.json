@@ -1,21 +1,71 @@
 {
   "games": [
     {
-      "id": "8796",
-      "title": "Game two",
+      "": "1",
+      "title": "Game One",
       "platform": [
-        "XBOX-29",
-        "PS-%2",
-        "PC-1"
+        "PC",
+        "PS5"
+      ],
+      "id": "0134"
+    },
+    {
+      "id": "2",
+      "title": "Game Two",
+      "platform": [
+        "Xbox",
+        "PC"
       ]
     },
     {
-      "id": "1234",
-      "title": "Game one",
+      "id": "4",
+      "title": "Game Four",
       "platform": [
-        "XBOX-29",
-        "PS-%2",
-        "PC-1"
+        "Xbox"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Game Five",
+      "platform": [
+        "PC"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Game Eight",
+      "platform": [
+        "PS4",
+        "PC"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Game Nine",
+      "platform": [
+        "Xbox"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Game Ten",
+      "platform": [
+        "PC"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Game Fifteen",
+      "platform": [
+        "PC"
+      ]
+    },
+    {
+      "id": "4865",
+      "title": "FIFA GAMES EA SPORTS",
+      "platform": [
+        "ACER SWIFT",
+        "ASUS S15"
       ]
     }
   ],
